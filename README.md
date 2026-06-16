@@ -18,5 +18,12 @@ Cleaned and analysed a messy e-commerce dataset using Microsoft Excel. Built an 
 - Orders by Status (Pie Chart)
 - Monthly Sales Trend (Line Chart)
 
+## Key Insights
+- Books is the top performing category with $38,357 in sales
+- 32% of orders are Returned, highest of all statuses, a major red flag for the business
+- Only 11% of orders are fully Delivered
+- Sales peaked in February, with a sharp dip in April
+- Electronics had the lowest sales despite being a high value category
+
 ## Dataset Source
 [Messy E-Commerce Sales Dataset - Kaggle](https://www.kaggle.com/datasets/kandeelai22/messy-e-commerce-sales-dataset)
