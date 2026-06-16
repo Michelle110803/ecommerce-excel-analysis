@@ -31,5 +31,10 @@ Cleaned and analysed a messy e-commerce dataset using Microsoft Excel. Built an 
 - Lamp is the most returned Home product (3 returns)
 - This suggests a potential quality or expectation mismatch issue in the Books category
 
+## Data Limitations
+- 27% of records were removed during cleaning due to invalid or missing values
+- Analysis based on 73 our of ~100 original records
+- Findings should be interpreted with this limitation in mind
+
 ## Dataset Source
 [Messy E-Commerce Sales Dataset - Kaggle](https://www.kaggle.com/datasets/kandeelai22/messy-e-commerce-sales-dataset)
