@@ -25,5 +25,11 @@ Cleaned and analysed a messy e-commerce dataset using Microsoft Excel. Built an 
 - Sales peaked in February, with a sharp dip in April
 - Electronics had the lowest sales despite being a high value category
 
+### Product Return Analysis
+- Fiction is the most returned product (4 returns)
+- Books category accounts for 43% of all returns despite being the top selling category
+- Lamp is the most returned Home product (3 returns)
+- This suggests a potential quality or expectation mismatch issue in the Books category
+
 ## Dataset Source
 [Messy E-Commerce Sales Dataset - Kaggle](https://www.kaggle.com/datasets/kandeelai22/messy-e-commerce-sales-dataset)
